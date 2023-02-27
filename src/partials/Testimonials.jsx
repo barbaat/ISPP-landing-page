@@ -17,7 +17,7 @@ function Testimonials() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h2 className="h2 mb-4">Juntos para promover la actividad deportiva y la vida saludable</h2>
-            <p className="text-xl text-gray-600" data-aos="zoom-y-out">No dudes en probarla, y si tienes alguna pregunta estaremos encatados de responderte y ayudarte en todo lo posible.</p>
+            <p className="text-xl text-gray-600" data-aos="zoom-y-out">No dudes en probarla, y si tienes alguna pregunta estaremos encantados de responderte y ayudarte en todo lo posible.</p>
           </div>
 
         </div>
