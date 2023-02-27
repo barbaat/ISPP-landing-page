@@ -42,7 +42,7 @@ function HeroHome() {
             {/* Modal */}
             <Modal id="modal" ariaLabel="modal-headline" show={videoModalOpen} handleClose={() => setVideoModalOpen(false)}>
               <div className="relative pb-9/16">
-                <iframe className="absolute w-full h-full" src="https://player.vimeo.com/video/794844558" title="Video" allowFullScreen></iframe>
+                <iframe className="absolute w-full h-full" src="https://player.vimeo.com/video/802797619" title="Video" allowFullScreen></iframe>
               </div>
             </Modal>
 
